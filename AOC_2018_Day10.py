@@ -1,3 +1,5 @@
+# https://adventofcode.com/2018/day/10
+
 import re
 
 tries = 10730 #I tried 20000, but try #10727 was the best (so, the answer on question 2 is # of our best try)
